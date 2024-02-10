@@ -1,0 +1,11 @@
+* {
+    padding: 0px;
+    margin: 200;
+    background-color: aqua;
+}
+
+#header {
+    color: brown;
+    border-right: 90px;
+
+}
